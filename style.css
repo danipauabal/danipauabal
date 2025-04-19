@@ -1,0 +1,7 @@
+h1{
+background-color: blue;
+}
+body { font-family: Arial, sans-serif; }
+        .product { border: 1px solid #ddd; padding: 10px; margin: 10px; }
+        .cart { margin-top: 20px; padding: 10px; border: 2px solid #333; }
+        
